@@ -1,12 +1,6 @@
-h2.intro {
+.intro {
   font-style: bold;
   font-style: italic;
+  text-align: center;
 }
 
-p.intro {
-  font-style: italic;
-}
-
-img.intro {
-  border-image: fill;
-}
